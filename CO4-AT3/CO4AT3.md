@@ -1,8 +1,10 @@
 ECA6101CO4AT3_REPORT
 
 Name: Prithvi Raaj Kumar L
-Registration Number: 4357 / 192512275
+Registration Number:192512275
+
 Department: Electronics and Communication Engineering (ECE)
+
 
 Implementation and Evaluation of a 3-Branch Site-to-Site VPN
 1. Architecture Design
